@@ -17,4 +17,7 @@ test_tree
 .vscode/
 .idea/
 
+# Local planning/report files
+STEPS.md
+REPORT.md
 
